@@ -5,8 +5,8 @@ Welcome to my programming practice repository!
 
 ## Student Information
 
-- **Name:**
-- **Student ID:**
+- **Name: Ali Omar Nafiz**
+- **Student ID: 0112430348**
 - **Section:**
 - **Course:** CSE 1112
 - **Course Title:** Structured Programming Language Laboratory
